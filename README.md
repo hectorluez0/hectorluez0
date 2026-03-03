@@ -31,13 +31,9 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hectorluez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectorluez&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hectorluez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+</p>
 
 ---
 
@@ -51,13 +47,17 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectorluez&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ## 🏆 Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hectorluez&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hectorluez&theme=tokyonight&no-frame=true&margin-w=8" />
+</p>
 
 ---
 
