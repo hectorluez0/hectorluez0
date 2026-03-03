@@ -1,29 +1,96 @@
 <div align="center">
-<h1> :wave: Hi, I’m @hectorluez </h1>
-  
-<h1> :grey_question: About </h1>
-  <p> :label: My name is Eren </p>
-  <p> 👨‍💻 I'm a Full-Stack developer </p>
-  <p> 🏳️ I live in Turkey/Trabzon </p>
-  <p> 💻 Favorite programming language <a href="https://tr.wikipedia.org/wiki/JavaScript"> Javascript </a> </p>
 
+# 👋 Hello, I'm Eren
+### Full-Stack Developer from Turkey 🇹🇷
 
-<h1> ✍ Technologies I use </h1>
-<img src="https://skillicons.dev/icons?i=js,ts,cs,react,nodejs,mongodb,html,css,vscode,atom,discord&theme=dark" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;JavaScript+Enthusiast;React+%7C+Node.js+Developer;Always+Learning+New+Things" />
 
-<h1> 📈: My stats </h1>
-<img src="https://github-readme-stats.vercel.app/api?username=itzcarlos01&show_icons=true&theme=dark" />
-
-###
-![](https://github-contributor-stats.vercel.app/api?username=itzcarlos01&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-###
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itzcarlos01&show_icons=true&locale=en&layout=compact&theme=dark" alt="itzcarlos01" /></p>
-
-
-<h1> 💎 My achievements </h1>
-<img src="https://github-profile-trophy.vercel.app/?username=itzcarlos01&theme=onedark" />
-
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=itzcarlos01&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🧑‍💻 About Me
+
+- 👋 Hi, I’m **Eren**
+- 💻 Full-Stack Developer
+- 📍 Based in Turkey
+- 🚀 Passionate about building scalable web applications
+- ⚡ Favorite Language: **JavaScript**
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,cs,react,nodejs,express,mongodb,html,css,tailwind,vscode,git,github,discord&theme=dark" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hectorluez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectorluez&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=hectorluez&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hectorluez&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hectorluez&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/hectorluez">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://discord.com">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=hectorluez&color=blueviolet&style=flat-square" />
+
+</div>
